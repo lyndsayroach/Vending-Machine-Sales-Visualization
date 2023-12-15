@@ -7,6 +7,6 @@ We employed the [Vending Machine Sales dataset](https://www.kaggle.com/datasets/
 
 # Example of Insights by Location and Date
 
-In the interactive dashboard format, users can conveniently specify the location and date preferences by selecting options from dropdown menu and setting the slider, respectively. Displayed here is an example illustrating the sales data for the Earle Asphalt location from July 1st, 2022 to December 31st 2022.
+In the interactive dashboard format, users can conveniently specify the location and date preferences by selecting options from dropdown menu and setting the slider, respectively. Displayed here is an example illustrating the sales data for the Earle Asphalt location from July 1st, 2022 to December 31st, 2022.
 
 ![vendingmachine_sales_analysis_v2](https://github.com/lyndsayroach/Vending-Machine-Sales-Visualization/assets/17256163/0082e71e-753f-4b48-b569-11e079b7bd23)
